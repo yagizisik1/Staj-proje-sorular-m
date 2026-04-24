@@ -1,5 +1,5 @@
 Haratres F.I.T. Staj Programı Değerlendirme Ödevi
-Bu depo, Haratres Teknoloji 2026 F.I.T. Staj Programı kapsamında verilen teknik değerlendirme sorularının çözümlerini içermektedir.
+Bu depo, Haratres Teknoloji 2026S F.I.T. Staj Programı kapsamında verilen teknik değerlendirme sorularının çözümlerini içermektedir.
 
 🚀 Proje Hakkında
 Ödev dokümanında belirtilen iki temel algoritma sorusu Java programlama dili kullanılarak çözülmüştür. Proje, kullanıcı etkileşimli terminal arayüzüne sahiptir ve temel programlama prensipleri (Diziler, Döngüler, Koşul Yapıları, Nesne Yönelimli Programlama) kullanılarak geliştirilmiştir.
